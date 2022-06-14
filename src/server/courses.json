@@ -1,0 +1,68 @@
+{
+    "courses": [
+        {
+            "id":1,
+            "name":"java script",
+            "price":50,
+            "info":"Contrary to popular belief, Lorem Ipsum is not simply random text.",
+            "image": "https://picsum.photos/200/300"
+        
+        },
+        {
+            "id":2,
+            "name":"node js", 
+            "price":50,
+            "info":"Contrary to popular belief, Lorem Ipsum is not simply random text.",
+            "image": "https://picsum.photos/200/300"
+        },
+        {
+            "id":3,
+            "name":"react js",
+            "price":50,
+            "info":"Contrary to popular belief, Lorem Ipsum is not simply random text.",
+            "image": "https://picsum.photos/200/300"
+        },
+        {
+            "id":4,
+            "name":"Python",
+            "price":50,
+            "info":"Contrary to popular belief, Lorem Ipsum is not simply random text.",
+            "image": "https://picsum.photos/200/300"
+        },
+        {
+            "id":5,
+            "name":"php",
+            "price":50,
+            "info":"Contrary to popular belief, Lorem Ipsum is not simply random text.",
+            "image": "https://picsum.photos/200/300"
+        },
+        {
+            "id":6,
+            "name":"Angular",
+            "price":50,
+            "info":"Contrary to popular belief, Lorem Ipsum is not simply random text.",
+            "image": "https://picsum.photos/200/300"
+        },
+        {
+            "id":7,
+            "name":"Docker Mastery",
+            "price":50,
+            "info":"Contrary to popular belief, Lorem Ipsum is not simply random text.",
+            "image": "https://picsum.photos/200/300"
+        },
+        {
+            "id":8,
+            "name":"Cyber Security",
+            "price":50,
+            "info":"Contrary to popular belief, Lorem Ipsum is not simply random text.",
+            "image": "https://picsum.photos/200/300"
+        },
+        {
+            "id":9,
+            "name":"java",
+            "price":50,
+            "info":"Contrary to popular belief, Lorem Ipsum is not simply random text.",
+            "image": "https://picsum.photos/200/300"
+        }
+    ]
+}
